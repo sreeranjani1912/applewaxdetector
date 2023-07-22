@@ -27,6 +27,8 @@ Usage:
   Click the "Process" button to analyze the image for wax coating.
   The result page will display the uploaded image, grayscale value, and the prediction of whether the apple has wax coating or not.
 Results and Performance:![image](https://github.com/sreeranjani1912/applewaxdetector/assets/138803936/146905d2-a16e-45de-9bba-e8293cded7f8)
+![Screenshot 2023-07-22 141043](https://github.com/sreeranjani1912/applewaxdetector/assets/138803936/b5cfd003-0f04-4808-8f98-acef38148c07)
+
 
 
 
